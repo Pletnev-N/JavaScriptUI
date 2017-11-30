@@ -1,0 +1,17 @@
+table {
+	width: 400px;
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 4px;
+	border: 1px solid black;
+}
+
+.validationFail {
+    background-color: #ff5555;
+}
+
+.paintedTableRow {
+    background-color: #eeeeff;
+}
